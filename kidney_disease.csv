@@ -225,14 +225,12 @@ id,age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,htn,dm,cad,app
 285,66,70,1.02,0,0,normal,normal,notpresent,notpresent,94,19,0.7,135,3.9,16,41,5300,5.9,no,no,no,good,no,no,notckd
 286,71,70,1.02,0,0,normal,normal,notpresent,notpresent,81,18,0.8,145,5,14.7,44,9800,6,no,no,no,good,no,no,notckd
 287,39,70,1.025,0,0,normal,normal,notpresent,notpresent,124,22,0.6,137,3.8,13.4,43,,,no,no,no,good,no,no,notckd
-288,56,70,1.025,0,0,normal,normal,notpresent,notpresent,70,46,1.2,135,4.9,15.9,50,11000,5.1,,,,good,no,no,notckd
 289,42,70,1.02,0,0,normal,normal,notpresent,notpresent,93,32,0.9,143,4.7,16.6,43,7100,5.3,no,no,no,good,no,no,notckd
 290,54,70,1.02,0,0,,,,,76,28,0.6,146,3.5,14.8,52,8400,5.9,no,no,no,good,no,no,notckd
 291,47,80,1.025,0,0,normal,normal,notpresent,notpresent,124,44,1,140,4.9,14.9,41,7000,5.7,no,no,no,good,no,no,notckd
 292,30,80,1.02,0,0,normal,normal,notpresent,notpresent,89,42,0.5,139,5,16.7,52,10200,5,no,no,no,good,no,no,notckd
 294,75,60,1.02,0,0,normal,normal,notpresent,notpresent,110,50,0.7,135,5,14.3,40,8300,5.8,no,no,no,,,,notckd
 296,41,70,1.02,0,0,normal,normal,notpresent,notpresent,125,38,0.6,140,5,16.8,41,6300,5.9,no,no,no,good,no,no,notckd
-297,53,60,1.025,0,0,normal,normal,notpresent,notpresent,116,26,1,146,4.9,15.8,45,7700,5.2,,,,good,no,no,notckd
 298,34,60,1.02,0,0,normal,normal,notpresent,notpresent,91,49,1.2,135,4.5,13.5,48,8600,4.9,no,no,no,good,no,no,notckd
 299,73,60,1.02,0,0,normal,normal,notpresent,notpresent,127,48,0.5,150,3.5,15.1,52,11000,4.7,no,no,no,good,no,no,notckd
 300,45,60,1.02,0,0,normal,normal,,,114,26,0.7,141,4.2,15,43,9200,5.8,no,no,no,good,no,no,notckd
